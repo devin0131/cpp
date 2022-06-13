@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/devin/cpp/build/linux-debug",
+  "command": "/usr/bin/c++   -I/home/devin/cpp/saying  -g   -o CMakeFiles/devinbin.dir/main.cpp.o -c /home/devin/cpp/main.cpp",
+  "file": "/home/devin/cpp/main.cpp"
+},
+{
+  "directory": "/home/devin/cpp/build/linux-debug/saying",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/devinsaying.dir/saydevin.cpp.o -c /home/devin/cpp/saying/saydevin.cpp",
+  "file": "/home/devin/cpp/saying/saydevin.cpp"
+},
+{
+  "directory": "/home/devin/cpp/build/linux-debug/saying",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/devinsaying.dir/sayhello.cpp.o -c /home/devin/cpp/saying/sayhello.cpp",
+  "file": "/home/devin/cpp/saying/sayhello.cpp"
+}
+]

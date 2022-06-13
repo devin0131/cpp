@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/devin/cpp/saying/build/linux-debug",
+  "command": "/usr/bin/c++    -g   -o CMakeFiles/devinsaying.dir/sayhello.cpp.o -c /home/devin/cpp/saying/sayhello.cpp",
+  "file": "/home/devin/cpp/saying/sayhello.cpp"
+}
+]

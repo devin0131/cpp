@@ -1,0 +1,6 @@
+.ccls-cache
+build
+compile_commangd.json
+neovim.json
+.cache
+
